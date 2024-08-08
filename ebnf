@@ -1,0 +1,12 @@
+portfolio/
+index.html
+css/
+style.css
+js/
+script.js
+images/
+project1.jpg
+project2.jpg
+...
+README.md
+package.json
